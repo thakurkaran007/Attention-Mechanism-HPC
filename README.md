@@ -143,18 +143,18 @@ To ensure correctness across implementations:
 
 ## ✨ Team
 
-- **Saurabh Pal (S20220010196)**
-- **Sundar R    (S20220010215)**
-- **Aryan Sharma(S20220010021)**
+- **Karan Thakur (102303082)**
+- **Ayush Mahajan    (102303087)**
+- **Hemant (102303065)**
 
 ---
 
 ### 🙏 Acknowledgements
 
-A special thank you to our **course instructor, Dr. Bheemappa Halavar**, for his continuous support, expert guidance, and insightful feedback throughout the project.  
+A special thank you to our **course instructor, Dr. Saif Nalband**, for his continuous support, expert guidance, and insightful feedback throughout the project.  
 > Without his mentorship, this work would not have been possible.
 
-📅 **Final Submission Date:** May 10th, 2025
+📅 **Final Submission Date:** _ _th, 2026
 
 ---
 

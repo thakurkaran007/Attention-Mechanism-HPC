@@ -154,7 +154,7 @@ To ensure correctness across implementations:
 A special thank you to our **course instructor, Dr. Saif Nalband**, for his continuous support, expert guidance, and insightful feedback throughout the project.  
 > Without his mentorship, this work would not have been possible.
 
-📅 **Final Submission Date:** _ _th, 2026
+📅 **Final Submission Date:** 28 Apr, 2026
 
 ---
 

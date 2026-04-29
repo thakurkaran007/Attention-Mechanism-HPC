@@ -17,6 +17,6 @@ with open(argv[1]) as f1, open(argv[2]) as f2:
         s2 = tuple(map(float, next(f2).split()))
         assert len(s2) == n, "Line in FILE2 is smaller than promised"
 
-        assert all(abs(a - b) <= 1e-3 for a, b in zip(s1, s2)), (
-            "Abs diff more than 1e-3"
+        assert all(abs(a - b) <= 1e-4 for a, b in zip(s1, s2)), (
+            "Abs diff more than 1e-4"
         )
